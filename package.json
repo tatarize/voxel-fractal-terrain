@@ -1,0 +1,27 @@
+{
+  "name": "voxel-fractal-terrain",
+  "version": "0.0.1",
+  "description": "generate terrain with fractal diamond algorithm",
+  "preferGlobal": "false",
+  "main": "index.js",
+  "author": "",
+  "keywords": [
+    "things",
+    "tree",
+    "voxel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatarize/voxel-fractal-terrain"
+  },
+  "dependencies": {
+    "voxel": "0.0.9",
+    "fractal-terrain-generator": "0.0.2"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "_id": "voxel-fractal-terrain@0.0.2",
+  "readme": "ERROR: No README.md file found!",
+  "_from": "voxel-fractal-terrain@"
+}
